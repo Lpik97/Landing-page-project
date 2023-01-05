@@ -34,3 +34,14 @@ button,
     font-weight: 900;
     color: #1F2937;
 }
+
+.quoteSection {
+    background-color: #E5E7EB;
+}
+ .quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+ }
+
