@@ -35,6 +35,17 @@ header{
     flex-wrap: wrap;
 }
 
+.heroButton {
+    border-color: #3882F6;
+}
+
+button {
+    font-size: 20px;
+    font-weight: 900px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
 .heroPlaceHolder {
     background-color: rgb(113, 112, 112);
     width: 300px;
