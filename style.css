@@ -1,3 +1,25 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+.headerLogo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.hero,
+footer {
+    background-color: #1F2937;
+}
+
+.heroTittle {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.links,
+.headerText {
+    font-size: 18px;
+    color: #E5E7EB;
+}
