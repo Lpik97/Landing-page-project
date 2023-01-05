@@ -29,10 +29,20 @@ header{
     flex-direction: row;
 }
 
+.heroLeft {
+    max-width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .heroPlaceHolder {
-    background-color:#E5E7EB;
+    background-color: rgb(113, 112, 112);
     width: 300px;
     height: 150px;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .headerLogo {
