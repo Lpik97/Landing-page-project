@@ -26,6 +26,7 @@ header{
 .hero {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     padding: 125px 0;
 }
 
