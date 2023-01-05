@@ -6,7 +6,7 @@ body {
 }
 
 .superiorPart {
-    padding: 0 250px;
+    padding: 0 200px;
 }
 
 header{
@@ -14,6 +14,7 @@ header{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    padding-top: 20px;
 }
 
 .links {
@@ -25,6 +26,7 @@ header{
 .hero {
     display: flex;
     flex-direction: row;
+    padding: 125px 0;
 }
 
 .heroLeft {
