@@ -125,10 +125,9 @@ button,
 
 .text {
     color: #1F2937;
-    text-align: center;
+    text-align:center;
     margin: 10px 0;
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 22px;
     width: 210px;
 }
 
