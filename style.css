@@ -179,3 +179,12 @@ button,
     font-weight: 700;
     padding: 10px 30px;
  }
+
+ footer {
+    padding: 40px 0;
+    color: #F9FAF8;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+ }
