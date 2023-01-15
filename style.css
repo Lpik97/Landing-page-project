@@ -112,6 +112,22 @@ button,
     height: 220px;
 }
 
+.informationTexts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.text {
+    color: #1F2937;
+    text-align: center;
+    margin: 10px 0;
+    font-size: 20px;
+    font-weight: 600;
+    width: 210px;
+}
+
 .quoteSection {
     background-color: #E5E7EB;
 }
