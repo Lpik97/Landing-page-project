@@ -90,6 +90,10 @@ button,
     color: #F9FAF8;
 }
 
+.informationSection {
+    margin-bottom: 100px;
+}
+
 .informationTittle {
     font-size: 36px;
     font-weight: 900;
@@ -130,11 +134,24 @@ button,
 
 .quoteSection {
     background-color: #E5E7EB;
+    padding: 100px 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
+
  .quote {
     font-size: 36px;
     font-weight: 300;
     font-style: italic;
     color: #1F2937;
+    width: 840px;
+ }
+
+ .quoteAuthor {
+    font-size: 23px;
+    font-weight: 800;
+    align-self: flex-end;
  }
 
