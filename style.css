@@ -36,6 +36,10 @@ header{
     flex-wrap: wrap;
 }
 
+.heroText {
+    margin: 10px 0;
+}
+
 .heroButton {
     border-color: #3882F6;
 }
